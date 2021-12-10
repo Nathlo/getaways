@@ -1,0 +1,21 @@
+/* Reset CSS */
+*, ::before, ::after {
+	box-sizing: border-box;
+	margin:  0;
+	padding: 0;
+}
+
+body {
+	height:  100vh;
+}
+
+.accueil {
+	background: url(https://picsum.photos/id/1011/1600/800);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	opacity: 0.90;
+}
+
+
+
